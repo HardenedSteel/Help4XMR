@@ -1,4 +1,6 @@
 # Monero Contributor's List
+Would you like to contribute Monero but don't know where to start? This list onboards the new contributors.
+
 ## Table of Contents
 TODO
 
