@@ -13,11 +13,11 @@ TODO
 ## Have Products to Sell
 * [Setup your own BTCPayServer store](https://btcpayserver.org/)
 * [Setup your own Bitcart.ai store](https://bitcart.ai/)
-* [Sell on MoneroMarket.io](https://moneromarket.io)*
+* [Sell on MoneroMarket.io](https://moneromarket.io)*<sup>ɱ</sup>
 
 ## Have Computing Power to Donate
 * [Run Public Monero Node](https://github.com/lalanza808/docker-monero-node) and make accessible from Tor and I2P.
-* [Solo](https://xmrig.com/) or [P2Pool](https://gupax.io/) Mining
+* [Solo](https://xmrig.com/) or [P2Pool](https://gupax.io/) Mining<sup>ɱ</sup>
 
 ## Have XMR knowledge
 * Help to new people;
@@ -49,18 +49,24 @@ TODO
 * [Cuprate (Monero Rust Implementation)](https://github.com/Cuprate/cuprate)*
 
 ### Misc
-* [Hunt Bounties](https://bounties.monero.social/)
+* [Hunt Bounties](https://bounties.monero.social/)<sup>ɱ</sup>
  
 ## Have money to invest
-* Invest to Monero
+* Invest to Monero<sup>ɱ</sup>
 * Provide liquidity
-  * [on Bisq with XMR/BTC pair](https://bisq.network)
-  * [on Atomic Swaps with XMR/BTC pair](https://github.com/comit-network/xmr-btc-swap?tab=readme-ov-file#becoming-a-market-maker)
+  * [on Bisq with XMR/BTC pair](https://bisq.network)<sup>ɱ</sup>
+  * [on Atomic Swaps with XMR/BTC pair](https://github.com/comit-network/xmr-btc-swap?tab=readme-ov-file#becoming-a-market-maker)<sup>ɱ</sup>
 
 ## Other
 * When making **any** payment ask if they accept Monero (even you know they don't)
 * [Put Monero stickers at street (known as Guerrilla marketing)](https://monerosupplies.com/product/fund-a-guerrilla-get-funded/)
 * Self custody your coins
 
+## Can make new projects<sup>ɱ</sup>
+* [Request fund from CCS](https://ccs.getmonero.org/)
+* [Request fund from Magic Monero Funds](https://monerofund.org/)
+
 ---
-\* For profit or already funded with funding system.
+\*: For profit or already funded with funding system.
+
+ɱ: You can earn Monero with it.
