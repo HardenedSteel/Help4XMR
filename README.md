@@ -1,6 +1,10 @@
 # Monero Contributor's List
 Would you like to contribute Monero but don't know where to start? This list onboards the new contributors.
 
+Do you have questions? Join our Matrix room!
+
+[![Chat on Matrix](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#monero-recruitment:monero.social)
+
 ## Table of Contents
 TODO
 
@@ -9,6 +13,7 @@ TODO
 * [MAGIC Monero Fund](https://monerofund.org/)
 * [Fund guerrilla marketers](https://monerosupplies.com/product/fund-a-guerrilla-get-funded/)
 * [This project (and me)](https://github.com/hardenedsteel)
+* Other volunteer contributors
 
 ## Have Products to Sell
 * [Setup your own BTCPayServer store](https://btcpayserver.org/)
@@ -50,7 +55,10 @@ TODO
 
 ### Misc
 * [Hunt Bounties](https://bounties.monero.social/)<sup>ɱ</sup>
- 
+
+## White Hat Hacker
+* [The Monero Project Vulnerability Disclosure Program](https://hackerone.com/monero)<sup>ɱ</sup>
+
 ## Have money to invest
 * Invest to Monero<sup>ɱ</sup>
 * Provide liquidity
@@ -62,7 +70,8 @@ TODO
 * [Put Monero stickers at street (known as Guerrilla marketing)](https://monerosupplies.com/product/fund-a-guerrilla-get-funded/)
 * Self custody your coins
 
-## Can make new projects<sup>ɱ</sup>
+## Can make new projects or contribute long term<sup>ɱ</sup>
+Good to read blog: [Developer Opportunities at the Monero Project](https://web.getmonero.org/2023/02/02/seraphis-jamtis-developer-opportunities.html)
 * [Request fund from CCS](https://ccs.getmonero.org/)
 * [Request fund from Magic Monero Funds](https://monerofund.org/)
 
@@ -70,3 +79,5 @@ TODO
 \*: For profit or already funded with funding system.
 
 ɱ: You can earn Monero with it.
+
+
