@@ -3,7 +3,7 @@ Would you like to contribute Monero but don't know where to start? This list onb
 
 Do you have questions? Join our Matrix room!
 
-[![Chat on Matrix](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#monero-recruitment:monero.social)
+[![Chat on Matrix](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#monero-community-dev:monero.social)
 
 ## Table of Contents
 TODO
