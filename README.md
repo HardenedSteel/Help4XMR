@@ -6,7 +6,26 @@ Do you have questions? Join our Matrix room!
 [![Chat on Matrix](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#monero-community-dev:monero.social)
 
 ## Table of Contents
-TODO
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+- [Have Money to Donate](#have-money-to-donate)
+- [Have Products to Sell](#have-products-to-sell)
+- [Have Computing Power to Donate](#have-computing-power-to-donate)
+- [Have XMR knowledge](#have-xmr-knowledge)
+- [Know Multiple Language](#know-multiple-language)
+- [Have Programming Skills;](#have-programming-skills)
+   * [C/C++](#cc)
+   * [HTML/CSS](#htmlcss)
+   * [Java](#java)
+   * [Dart](#dart)
+   * [Rust](#rust)
+   * [Misc](#misc)
+- [White Hat Hacker](#white-hat-hacker)
+- [Have money to invest](#have-money-to-invest)
+- [Other](#other)
+- [Can make new projects or contribute long term<sup>ɱ</sup>](#can-make-new-projects-or-contribute-long-termɱ)
+
+<!-- TOC end -->
 
 ## Have Money to Donate
 * [Community Crowdfunding System](https://ccs.getmonero.org/)
