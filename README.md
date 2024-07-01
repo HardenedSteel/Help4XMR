@@ -38,6 +38,7 @@ Do you have questions? Join our Matrix room!
 * [Setup your own BTCPayServer store](https://btcpayserver.org/)
 * [Setup your own Bitcart.ai store](https://bitcart.ai/)
 * [Sell on MoneroMarket.io](https://moneromarket.io)*<sup>ɱ</sup>
+* [Sell on XMRBazaar](https://xmrbazaar.com)*<sup>ɱ</sup>
 
 ## Have Computing Power to Donate
 * [Run Public Monero Node](https://github.com/lalanza808/docker-monero-node) and make accessible from Tor and I2P.
