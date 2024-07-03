@@ -19,6 +19,7 @@ Do you have questions? Join our Matrix room!
    * [Java](#java)
    * [Dart](#dart)
    * [Rust](#rust)
+   * [Go](#go)
    * [Misc](#misc)
 - [White Hat Hacker](#white-hat-hacker)
 - [Have money to invest](#have-money-to-invest)
@@ -72,6 +73,9 @@ Do you have questions? Join our Matrix room!
 
 ### Rust
 * [Cuprate (Monero Rust Implementation)](https://github.com/Cuprate/cuprate)*
+
+### Go
+* [Open Source Monero ATM](https://github.com/monero-atm)
 
 ### Misc
 * [Hunt Bounties](https://bounties.monero.social/)<sup>ɱ</sup>
